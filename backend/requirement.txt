@@ -1,0 +1,10 @@
+numpy<2.0.0
+tensorflow-cpu 
+fastapi 
+uvicorn 
+python-dotenv 
+qdrant-client 
+transformers 
+sentence-transformers 
+sentencepiece 
+scikit-learn
